@@ -4,3 +4,4 @@ pages/
 output/
 __pycache__/
 venv
+.vscode
